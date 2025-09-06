@@ -88,9 +88,9 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-snake-dark.svg" />
+    <img src="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-snake-dark.svg" alt="github-snake" />
   </picture>
   <br />
   <br />
@@ -102,6 +102,24 @@
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
+ <p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulkarmakar1446&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulkarmakar1446&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=rahulkarmakar1446&theme=default&border=61dafb" alt="rahulkarmakar1446's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahulkarmakar1446&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rahulkarmakar1446&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rahulkarmakar1446&show_icons=true&theme=default&border_color=61dafb" alt="rahulkarmakar1446's github stats" />
+      </picture>
+    </a>
+  </div>
 
 
 <!-- spaces -->
