@@ -1,33 +1,149 @@
-<h1 align="center">Hi 👋, I'm Rahul Karmakar</h1>
-<h3 align="center">B.Tech Student|AI & ML Explorer|Computer science & Engineering Student</h3>
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=rahulkarmakar1446" alt="Profile views" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkarmakar1446&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkarmakar1446" /> </p>
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Rahul+Karmakar;&center=true&font=Righteous&size=35" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkarmakar1446" alt="rahulkarmakar1446" /></a> </p>
 
-- 🔭 I’m currently working on **A deep learning–powered gait recognition system that accurately identifies people under varying angles and clothing conditions, enabling secure and hassle-free biometric verification.**
-
-- 🌱 I’m currently learning **This involves using CNN architectures, natural language processing, and other AI models, and then deploying the applications on Microsoft Azure.**
-
-- 👯 I’m looking to collaborate on **Developing AI/ML-based solutions for social impact, particularly in smart urban systems and assistive technologies.**
-
-- 🤝 I’m looking for help with **Focusing on better generalization of models in practical environments, especially for recognizing individuals through gait using silhouette data and CNN architectures.**
-
-- 💬 Ask me about **Gait-based recognition,multilingual text-to-speech systems.**
-
-- 📫 How to reach me **karmakarrahul20000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br />
+<!-- about me -->
+<p align="center">
+  B.Tech Student | AI & ML Explorer | Computer Science & Engineering Student
+  <br />
+  <br />
+  🔭 I’m currently working on <b>A deep learning–powered gait recognition system that accurately identifies people under varying angles and clothing conditions, enabling secure and hassle-free biometric verification.</b>
+  <br />
+  🌱 I’m currently learning <b>This involves using CNN architectures, natural language processing, and other AI models, and then deploying the applications on Microsoft Azure.</b>
+  <br />
+  👯 I’m looking to collaborate on <b>Developing AI/ML-based solutions for social impact, particularly in smart urban systems and assistive technologies.</b>
+  <br />
+  🤝 I’m looking for help with <b>Focusing on better generalization of models in practical environments, especially for recognizing individuals through gait using silhouette data and CNN architectures.</b>
+  <br />
+  💬 Ask me about <b>Gait-based recognition, multilingual text-to-speech systems.</b>
+  <br />
+  📫 How to reach me: <a href="mailto:karmakarrahul20000@gmail.com">karmakarrahul20000@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- social handles -->
+<div align="center">
+<!-- gmail -->
+  <a href="mailto:karmakarrahul20000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/rahul-karmakar-8120a3268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <!-- GitHub profile trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulkarmakar1446" alt="rahulkarmakar1446" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkarmakar1446&show_icons=true&locale=en&layout=compact" alt="rahulkarmakar1446" /></p>
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
+  </a>
+</p>
+<br />
+<hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarmakar1446&show_icons=true&locale=en" alt="rahulkarmakar1446" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarmakar1446&" alt="rahulkarmakar1446" /></p>
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/rahulkarmakar1446/rahulkarmakar1446/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
+  <hr />
 
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=raulkarmakar1446&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=raulkarmakar1446&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=raulkarmakar1446&theme=default&border=61dafb" alt="raulkarmakar1446's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=raulkarmakar1446&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=raulkarmakar1446&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=raulkarmakar1446&show_icons=true&theme=default&border_color=61dafb" alt="raulkarmakar1446's github stats" />
+      </picture>
+    </a>
+  </div>
+
+<!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulkarmakar1446&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=raulkarmakar1446&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkarmakar1446&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rahulkarmakar1446's contribution graph" />
+    </picture>
+  </a>
+</p>
+
+<hr />
+
+<!-- repositories -->
+
+<!-- spaces -->
+
+<br /><br /><br /><br /><br /><br />
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/rahulkarmakar1446?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
